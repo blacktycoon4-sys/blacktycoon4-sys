@@ -1,4 +1,4 @@
-### Hi there 👋, I'm blacktycoon4-sys
+### Hi there 👋, I'm Ejike Precious
 
 Welcome to my digital space! I am a passionate developer driven by an insatiable curiosity for how technology works beneath the surface. For me, programming is much more than just writing syntax—it is a powerful medium for creative problem-solving, automation, and building systems that make a tangible impact.
 
