@@ -1,14 +1,21 @@
-### Hi there 👋, I'm Ejike Precious
+# Hi there 👋, I'm Ejike Precious
 
-Welcome to my digital space! I am a passionate developer driven by an insatiable curiosity for how technology works beneath the surface. For me, programming is much more than just writing syntax—it is a powerful medium for creative problem-solving, automation, and building systems that make a tangible impact.
+I'm a beginner in web development from Nigeria, learning HTML, CSS and JavaScript.
 
----
+## What I've done so far
+- Helped with the backend of our school portal and got my first little taste of MongoDB
+- Built small front end class assignments to practise HTML, CSS and JavaScript
+- Built my first web portfolio
 
-### 🚀 My Journey & Drive for Learning
-Technology evolves at a breathless pace, and that constant evolution is what excites me the most. 
-- **Continuous Exploration:** I thrive on diving deep into documentation, dissecting complex systems, and figuring out how to optimize workflows from the ground up.
-- **Embracing Challenges:** Every bug, error, and architectural hurdle is viewed not as a roadblock, but as an invaluable lesson that sharpens my analytical thinking.
-- **Curiosity-Driven Growth:** Whether it is mastering a new scripting technique, refining system configurations, or exploring low-level mechanics, I am always expanding my mental toolset.
+## What I'm learning
+- HTML, CSS and JavaScript (the front end)
+- A bit more MongoDB and backend basics
+
+## My goal
+I want to use tech to solve problems and help make Nigeria better, and to learn from my teachers and friends along the way.
+
+## Outside the code
+😴 Sleep · 🎬 Movies · 🚶🏾 Walking
 
 ### 🤝 The Power of Collaboration
 I believe that some of the greatest technological breakthroughs come from shared perspectives and teamwork.
